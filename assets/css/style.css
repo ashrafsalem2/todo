@@ -1,0 +1,11 @@
+body {
+  font-family: "Yuji Mai", serif;
+  background: url("../images/todoBackgroung.png");
+}
+
+section {
+  min-height: 100vh;
+  background: url("../images/toDolist.webp");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
